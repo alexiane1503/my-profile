@@ -1,0 +1,27 @@
+body {
+	background-color: #f8f1f1;
+	color: rgb(30,30,30); 
+	font-family: 'Grandstander', cursive;
+}
+
+h1 { 
+	color : pink; 
+	font-family: fantasy;
+	letter-spacing: 5px;
+	font-size: 40px;
+
+	}
+h2  { 
+	color : purple;
+	}
+h3  { 
+	color : purple;
+	}
+h4  { 
+	color : purple;
+	}
+
+	
+a: hover : {
+color : blue ; }
+
